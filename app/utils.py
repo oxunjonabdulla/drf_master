@@ -7,7 +7,7 @@ def genereation_verification_code():
 
 from eskiz_sms import EskizSMS
 
-eskiz = EskizSMS(email='jalilovjahongir99@gmail.com', password='8ZOivx1TejjKKUJP273xPIRKsOoqlTGoepgwxF8P')
+eskiz = EskizSMS(email='example@gmail.com', password='9201iwsjd823e88e9wq902')
 
 
 # eskiz.send_sms(mobile_phone='998908632230', message=genereation_verification_code, from_whom='4546', callback_url=None)
